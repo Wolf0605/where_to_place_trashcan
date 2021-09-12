@@ -24,6 +24,9 @@ for i in range(dong):
     a[i] = a[i]-1
 a.insert(10, 12)
 ```
+이후 공원 데이터와 붙혀주면~~
+![image](https://user-images.githubusercontent.com/82213429/132976917-7d7d9237-aa53-469d-a56e-7eca27387596.png)
+대충 이런식으로 된다
 ### 어디에 설치할까?
 **일단 경험을 살려보자**
 
